@@ -1,1 +1,1 @@
-# compressed imgbucket
+# personal_img_bucket
